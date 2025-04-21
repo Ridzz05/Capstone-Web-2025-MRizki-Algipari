@@ -62,9 +62,7 @@ Proyek ini memanfaatkan TypeScript untuk memberikan:
 4. Asset Gambar :
 ```
 https://github.com/Ridzz05/asset-gambar
-
 ```
-
 ## Troubleshooting
 
 - **Masalah Versi Node.js**: Strapinya gabakalan run kalo pake node latest version, so i decide to choose node versi 18 > `nvm use 18`.
