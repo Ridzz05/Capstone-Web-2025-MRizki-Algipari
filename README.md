@@ -53,7 +53,7 @@ Proyek ini memanfaatkan TypeScript untuk memberikan:
 
    ### Skrinsut
 
-   1. When ketika lu nyobain run npm run develop
+   1. When ketika lu ngerun `npm run develop`
    ![Strapi Admin](https://github.com/Ridzz05/asset-gambar/blob/main/Screenshot%20from%202025-04-22%2000-30-01.png?raw=true)
 
    2. Btw ini workspace nya. Simple kan? :p
