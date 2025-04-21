@@ -82,7 +82,7 @@ I prefer using Zorin OS for my development environment because:
 - Native support for development packages
 - Beautiful UI/UX that enhances productivity
 
-This project was developed with ❤️ using Zorin OS.
+This project was developed with ❤️ using Zorin OS(Ga ngaruh sih).
 
 ---
 *Created by M Rizki Algipari - 2025*
