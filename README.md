@@ -66,17 +66,17 @@ Proyek ini memanfaatkan TypeScript untuk memberikan:
 
 ## Saya malas pake OS Jendela soo i choose Zorin OS(This OS only for coding btw) Cheers. hope you guys give me a plus Score kkk.
 
-## Developer Note 🚀
+## Developer Note 
 
 > "Why I Choose Zorin OS for Development? 💻
 
 I prefer using Zorin OS for my development environment because:
 
-- 🛠️ Optimized for coding and development
-- 🎯 Clean and distraction-free interface
-- ⚡ Better performance for development tools
-- 🔧 Native support for development packages
-- 🎨 Beautiful UI/UX that enhances productivity
+- Optimized for coding and development
+- Clean and distraction-free interface
+- Better performance for development tools
+- Native support for development packages
+- Beautiful UI/UX that enhances productivity
 
 This project was developed with ❤️ using Zorin OS.
 
