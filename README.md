@@ -54,10 +54,10 @@ Proyek ini memanfaatkan TypeScript untuk memberikan:
    ### Skrinsut
 
    1. When ketika lu nyobain run npm run develop
-   ![Strapi Admin](https://raw.githubusercontent.com/Ridzz05/asset-gambar/refs/heads/main/Screenshot%20from%202025-04-22%2000-30-01.png?token=GHSAT0AAAAAAC4TF54T6AAYWKCUNUMFBUPI2AGQUFQ)
+   ![Strapi Admin](https://github.com/Ridzz05/asset-gambar/blob/main/Screenshot%20from%202025-04-22%2000-30-01.png?raw=true)
 
    2. Btw ini workspace nya. Simple kan? :p
-   ![](https://raw.githubusercontent.com/Ridzz05/asset-gambar/refs/heads/main/Screenshot%20from%202025-04-22%2000-30-16.png?token=GHSAT0AAAAAAC4TF54SBRKBP3JH6OQX5VSC2AGQU7A)
+   ![Workspace](https://github.com/Ridzz05/asset-gambar/blob/main/Screenshot%20from%202025-04-22%2000-30-16.png?raw=true)
 
 ## Troubleshooting
 
