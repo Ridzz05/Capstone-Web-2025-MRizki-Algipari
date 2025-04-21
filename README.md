@@ -124,13 +124,10 @@ Proyek ini memanfaatkan TypeScript untuk memberikan:
 
    ### Screenshots
 
-   1. Loading Time Performance
-   ![Loading Time Strapi](https://raw.githubusercontent.com/Ridzz05/asset-gambar/refs/heads/main/Screenshot%20from%202025-04-22%2000-29-44.png?token=GHSAT0AAAAAAC4TF54TILMNCUYWBEXIUPLW2AGQTIA)
-
-   2. Strapi Admin Panel
+   1. 
    ![Strapi Admin](https://raw.githubusercontent.com/Ridzz05/asset-gambar/refs/heads/main/Screenshot%20from%202025-04-22%2000-30-01.png?token=GHSAT0AAAAAAC4TF54T6AAYWKCUNUMFBUPI2AGQUFQ)
 
-   3. Development Workspace
+   2. Btw ini workspace nya. Simple kan? :p
    ![](https://raw.githubusercontent.com/Ridzz05/asset-gambar/refs/heads/main/Screenshot%20from%202025-04-22%2000-30-16.png?token=GHSAT0AAAAAAC4TF54SBRKBP3JH6OQX5VSC2AGQU7A)
 
 ## Troubleshooting
