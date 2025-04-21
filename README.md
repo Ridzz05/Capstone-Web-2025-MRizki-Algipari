@@ -59,7 +59,7 @@ Proyek ini memanfaatkan TypeScript untuk memberikan:
    2. Btw ini workspace nya. Simple kan? :p
    ![Workspace](https://github.com/Ridzz05/asset-gambar/blob/main/Screenshot%20from%202025-04-22%2000-30-16.png?raw=true)
 
-4. Asset Gambar :
+4. Asset Gambar Lainnya bisa di cek di :
 ```
 https://github.com/Ridzz05/asset-gambar
 ```
