@@ -121,18 +121,17 @@ Proyek ini memanfaatkan TypeScript untuk memberikan:
    cd tmp-strapi
    npm run develop
    ```
-   See coz my laptop is sangat amat sigma, jadi run nya agak lelet :b : 
-   ```
-   https://raw.githubusercontent.com/Ridzz05/asset-gambar/refs/heads/main/Screenshot%20from%202025-04-22%2000-29-44.png?token=GHSAT0AAAAAAC4TF54TILMNCUYWBEXIUPLW2AGQTIA
-   ```
-   Maybe it's work yeah?? idk
-   ```
-   https://raw.githubusercontent.com/Ridzz05/asset-gambar/refs/heads/main/Screenshot%20from%202025-04-22%2000-30-01.png?token=GHSAT0AAAAAAC4TF54T6AAYWKCUNUMFBUPI2AGQUFQ
-   ```
-   If you guys wanna see my workspace.. ya gini aja bentukannya hehe :p
-   ```
-   https://raw.githubusercontent.com/Ridzz05/asset-gambar/refs/heads/main/Screenshot%20from%202025-04-22%2000-30-16.png?token=GHSAT0AAAAAAC4TF54SBRKBP3JH6OQX5VSC2AGQU7A
-   ```
+
+   ### Screenshots
+
+   1. Loading Time Performance
+   ![Loading Time Strapi](https://raw.githubusercontent.com/Ridzz05/asset-gambar/refs/heads/main/Screenshot%20from%202025-04-22%2000-29-44.png?token=GHSAT0AAAAAAC4TF54TILMNCUYWBEXIUPLW2AGQTIA)
+
+   2. Strapi Admin Panel
+   ![Strapi Admin](https://raw.githubusercontent.com/Ridzz05/asset-gambar/refs/heads/main/Screenshot%20from%202025-04-22%2000-30-01.png?token=GHSAT0AAAAAAC4TF54T6AAYWKCUNUMFBUPI2AGQUFQ)
+
+   3. Development Workspace
+   ![Workspace Setup](https://raw.githubusercontent.com/Ridzz05/asset-gambar/refs/heads/main/Screenshot%20from%202025-04-22%2000-30-16.png?token=GHSAT0AAAAAAC4TF54SBRKBP3JH6OQX5VSC2AGQU7A)
 
 ## Troubleshooting
 
