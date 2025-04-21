@@ -122,7 +122,7 @@ Proyek ini memanfaatkan TypeScript untuk memberikan:
    npm run develop
    ```
 
-   ### Screenshots
+   ### Skrinsut
 
    1. When ketika lu nyobain run npm run develop
    ![Strapi Admin](https://raw.githubusercontent.com/Ridzz05/asset-gambar/refs/heads/main/Screenshot%20from%202025-04-22%2000-30-01.png?token=GHSAT0AAAAAAC4TF54T6AAYWKCUNUMFBUPI2AGQUFQ)
