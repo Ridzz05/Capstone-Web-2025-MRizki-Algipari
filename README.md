@@ -66,7 +66,7 @@ Proyek ini memanfaatkan TypeScript untuk memberikan:
 
 ## Saya malas pake OS Jendela soo i choose Zorin OS(This OS only for coding btw) Cheers. hope you guys give me a plus Score kkk.
 
-## Developer Note 
+## Dev Note 
 
 > "Why I Choose Zorin OS for Development? 💻
 
