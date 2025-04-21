@@ -79,7 +79,7 @@ const Navbar: React.FC<NavbarProps> = ({ onAddTask, onLogout }) => {
   return (
     <nav className="navbar" role="navigation" aria-label="Main Navigation">
       <div className="navbar-content">
-        <div className="navbar-logo">NIHIL</div>
+        <div className="navbar-logo">CPro</div>
 
         <div className="navbar-menu">
           <button

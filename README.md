@@ -59,6 +59,12 @@ Proyek ini memanfaatkan TypeScript untuk memberikan:
    2. Btw ini workspace nya. Simple kan? :p
    ![Workspace](https://github.com/Ridzz05/asset-gambar/blob/main/Screenshot%20from%202025-04-22%2000-30-16.png?raw=true)
 
+4. Asset Gambar :
+```
+https://github.com/Ridzz05/asset-gambar
+
+```
+
 ## Troubleshooting
 
 - **Masalah Versi Node.js**: Strapinya gabakalan run kalo pake node latest version, so i decide to choose node versi 18 > `nvm use 18`.
