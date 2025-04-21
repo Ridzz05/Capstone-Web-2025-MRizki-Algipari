@@ -13,7 +13,7 @@ Proyek ini terdiri dari aplikasi frontend React.js (TypeScript) dan backend Stra
 - Page ada di `frontend/src/pages/`
 - Aset ada di `frontend/src/assets/`
 - Services untuk API Communicationnya ada di `frontend/src/services/`
-- Utility function ada di `frontend/src/utils/` kalo ga salah
+- Utility function ada di `frontend/src/utils/` kalo ga salah :v
 
 ### Backend
 
