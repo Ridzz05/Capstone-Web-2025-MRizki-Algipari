@@ -102,12 +102,11 @@ Proyek ini memanfaatkan TypeScript untuk memberikan:
 
 ## Deployment
 
-Untuk deployment ke production:
-
 1. Frontend:
    ```
    cd frontend
-   npm run build
+   npm install
+   npm run start
    ```
 
 2. Backend:
@@ -115,6 +114,24 @@ Untuk deployment ke production:
    cd backend
    npm run build
    npm start
+   (Sisanya nanti bakalan di run di tmp-strapi)
+   ```
+3. Run Strapi:
+   ```
+   cd tmp-strapi
+   npm run develop
+   ```
+   See coz my laptop is sangat amat sigma, jadi run nya agak lelet :b : 
+   ```
+   https://raw.githubusercontent.com/Ridzz05/asset-gambar/refs/heads/main/Screenshot%20from%202025-04-22%2000-29-44.png?token=GHSAT0AAAAAAC4TF54TILMNCUYWBEXIUPLW2AGQTIA
+   ```
+   Maybe it's work yeah?? idk
+   ```
+   https://raw.githubusercontent.com/Ridzz05/asset-gambar/refs/heads/main/Screenshot%20from%202025-04-22%2000-30-01.png?token=GHSAT0AAAAAAC4TF54T6AAYWKCUNUMFBUPI2AGQUFQ
+   ```
+   If you guys wanna see my workspace.. ya gini aja bentukannya hehe :p
+   ```
+   https://raw.githubusercontent.com/Ridzz05/asset-gambar/refs/heads/main/Screenshot%20from%202025-04-22%2000-30-16.png?token=GHSAT0AAAAAAC4TF54SBRKBP3JH6OQX5VSC2AGQU7A
    ```
 
 ## Troubleshooting
