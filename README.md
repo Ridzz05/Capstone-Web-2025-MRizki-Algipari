@@ -70,7 +70,7 @@ https://github.com/Ridzz05/asset-gambar
 
 ## Saya malas pake OS Jendela soo i choose Zorin OS(This OS only for coding btw) Cheers. hope you guys give me a plus Score kkk.
 
-## Btw untuk stylingnya saya ga pake framework atau library dari Bootstrap dan Tailwind css, melainkan i use my own style, I'm using nihilism with white and black UI YK, i love style like this btw. 
+- Btw untuk stylingnya saya ga pake framework atau library dari Bootstrap dan Tailwind css, melainkan i use my own style, I'm using nihilism with white and black UI YK, i love style like this btw. 
 
 ## Dev Note 
 
